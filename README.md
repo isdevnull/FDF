@@ -1,3 +1,3 @@
 # FDF
 
-3D isoparametric map viewer made in team with [https://github.com/vladimir-netrebin](@vladimir-netrebin).
+3D isoparametric map viewer made in team with [@vladimir-netrebin](https://github.com/vladimir-netrebin).
